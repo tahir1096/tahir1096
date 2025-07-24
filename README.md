@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tahir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web3 developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/23ntucs1265" target="blank"><img src="https://img.shields.io/twitter/follow/23ntucs1265?logo=twitter&style=for-the-badge" alt="23ntucs1265" /></a> </p>
 
