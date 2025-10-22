@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tahir</h1>
-<h3 align="center">A passionate Web from Pakistan</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/23ntucs1265" target="blank"><img src="https://img.shields.io/twitter/follow/23ntucs1265?logo=twitter&style=for-the-badge" alt="23ntucs1265" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Next Js, React JS, Python**
+- 🌱 I’m currently learning **MERN Stack, Python**
 
 - 📫 How to reach me **mtahirkaam@gmail.com**
 
