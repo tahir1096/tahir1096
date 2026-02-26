@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/23ntucs1265" target="blank"><img src="https://img.shields.io/twitter/follow/23ntucs1265?logo=twitter&style=for-the-badge" alt="23ntucs1265" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Python**
+- 🌱 I’m currently working as Shopify Theme Developer Muscled Inc.
 
 - 📫 How to reach me **mtahirkaam@gmail.com**
 
