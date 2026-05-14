@@ -6,10 +6,6 @@
 - 🌱 I’m currently working as Shopify Theme Developer Muscled Inc.
 
 I am a Shopify Theme Developer and Full-Stack Web Developer passionate about building modern web applications and high-performance e-commerce stores.
-Full-Stack Developer with hands-on experience building high-performance Shopify storefronts and MERN stack web
-applications. Skilled in Liquid 2.0, Online Store 2.0 architecture, Shopify CLI 3.0, and Hydrogen, alongside React.js, Node.js,
-Express.js, and MongoDB. Proven record of optimizing Core Web Vitals (LCP, CLS, INP), translating Figma designs into
-pixel-perfect responsive interfaces, and shipping conversion-focused features for international e-commerce brands.
 
 My focus areas include:
 
