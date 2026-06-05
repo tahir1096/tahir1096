@@ -1,43 +1,55 @@
-# Hi, I'm Muhammad Tahir
+# Hi, I'm Muhammad Tahir 👋
 
-Shopify theme developer specialized in **Liquid 2.0** and **Dawn customization**, building fast and conversion-focused storefronts for international e-commerce brands.
+### Shopify Theme Developer • Frontend Engineer
 
-## What I work on
+I build fast, conversion-focused Shopify storefronts on **Online Store 2.0** — turning Figma designs into responsive, merchant-editable themes with strong Core Web Vitals. I also work across the full stack with React, Node, and Next.js.
 
-- **Shopify theme development** — Liquid 2.0, Online Store 2.0, JSON Templates, Sections & Blocks
-- **Figma → Shopify** conversion (pixel-perfect, fully responsive)
-- **Performance optimization** — Core Web Vitals (LCP, CLS, INP), Lighthouse 90+
-- **Custom sections and merchant settings** for non-developer editing
-- **Theme troubleshooting** and bug fixes
+📍 Faisalabad, Pakistan &nbsp;•&nbsp; 🌐 [mtahir.netlify.app](https://mtahir.netlify.app) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/muhammadtahir1096) &nbsp;•&nbsp; ✉️ mtahirkaam@gmail.com
 
-## Recent experience
+---
 
-**Muscled Inc.** (Toronto e-commerce agency) — Shopify Theme & Performance Developer (Feb–Apr 2026)
-- 30% LCP improvement across high-traffic storefronts
-- 12% lift in mobile checkout conversion
-- 35% faster page development through modular section library
-- 4+ Figma design systems converted to production Shopify themes
+## 🛠️ Tech Stack
 
-## Tech stack
+**Shopify**
+![Liquid](https://img.shields.io/badge/Liquid_2.0-95BF47?style=flat-square&logo=shopify&logoColor=white)
+![Shopify CLI](https://img.shields.io/badge/Shopify_CLI_3.0-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![OS 2.0](https://img.shields.io/badge/Online_Store_2.0-004C3F?style=flat-square&logo=shopify&logoColor=white)
 
-**Shopify:** Liquid 2.0, Shopify CLI 3.0, Online Store 2.0, JSON Templates, Theme Sections, Metafields, App Blocks
-**Frontend:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind, SCSS, Responsive Design
-**Performance:** Critical CSS, Lazy Loading, Image Optimization, Schema Markup
-**Tools:** Git, GitHub, VS Code, Figma, Chrome DevTools, Vercel, Netlify
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-## Open-source Shopify work
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-→ Check the pinned repositories below for sections packs, snippet libraries, and case studies.
+**Performance & Tools**
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Currently
+---
 
-Building productized Shopify services for international store owners. Available for remote contracts worldwide.
+## 🚀 What I Do
 
-## Reach me
+- 🏬 Build complete Shopify stores end to end — product pages, checkout, payments, shipping, and apps
+- 🎨 Convert Figma designs into responsive, **mobile-first** Liquid themes with reusable sections and blocks
+- ⚡ Optimize **LCP, CLS, and INP** through critical CSS, lazy-loading, deferred JS, and `srcset` images
+- 🧩 Make stores **merchant-editable** via metafields and the Theme Customizer so non-technical teams ship updates without code
+- 🤖 Explore where commerce meets AI — building MCP endpoints and Anthropic SDK integrations
 
-- Portfolio: [mtahir.netlify.app](https://mtahir.netlify.app)
-- LinkedIn: [muhammadtahir1096](https://linkedin.com/in/muhammadtahir1096)
-- Email: mtahirkaam@gmail.com
-- Based in Faisalabad, Pakistan (UTC+5)
+---
 
+## 📫 Let's Connect
 
+I'm open to Shopify theme work and frontend projects. The fastest way to reach me is through my [portfolio](https://mtahir.netlify.app) or [email](mailto:mtahirkaam@gmail.com).
+
+<sub>🎓 BS Computer Science @ Virtual University of Pakistan · CS50W (Harvard) certified</sub>
