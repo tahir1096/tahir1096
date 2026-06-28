@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Tahir 👋
 
-### Shopify Theme Developer • Frontend Engineer
+### Shopify Theme Developer • AI Full Stack Engineer
 
 I build fast, conversion-focused Shopify storefronts on **Online Store 2.0** — turning Figma designs into responsive, merchant-editable themes with strong Core Web Vitals. I also work across the full stack with React, Node, and Next.js.
 
