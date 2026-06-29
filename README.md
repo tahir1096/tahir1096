@@ -52,4 +52,4 @@ I build fast, conversion-focused Shopify storefronts on **Online Store 2.0** —
 
 I'm open to Shopify theme work and frontend projects. The fastest way to reach me is through my [portfolio](https://mtahir.netlify.app) or [email](mailto:mtahirkaam@gmail.com).
 
-<sub>🎓 BS Computer Science @ Virtual University of Pakistan · CS50W (Harvard) certified</sub>
+<sub>🎓 BS Computer Science @ Virtual University of Pakistan </sub>
