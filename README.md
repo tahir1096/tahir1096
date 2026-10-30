@@ -1,10 +1,18 @@
 # Hi, I'm Muhammad Tahir 👋
 
-### Shopify Theme Developer • AI Full Stack Engineer
+### Shopify & Full-Stack Developer • Building and securing web + AI apps
 
-I build fast, conversion-focused Shopify storefronts on **Online Store 2.0** — turning Figma designs into responsive, merchant-editable themes with strong Core Web Vitals. I also work across the full stack with React, Node, and Next.js.
+I build fast, conversion-focused Shopify storefronts on **Online Store 2.0** and full-stack apps with React, Node, and Next.js, including AI products on the Anthropic SDK and MCP. Now I'm going deep on **application and AI security**: learning to break and harden the same kind of apps I ship.
 
 📍 Faisalabad, Pakistan &nbsp;•&nbsp; 🌐 [mtahir.netlify.app](https://mtahir.netlify.app) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/muhammadtahir1096) &nbsp;•&nbsp; ✉️ mtahirkaam@gmail.com
+
+---
+
+## 🔭 Currently
+
+- 🔐 Working through a 90-day **application security** plan: PortSwigger Web Security Academy, OWASP Top 10, and Hacker101, hands-on with Burp Suite, Nmap, and Wireshark
+- 🕵️ Building **MetaTrace**, a browser-only metadata forensics tool for photos and documents. Its Content-Security-Policy (`connect-src 'none'`) means your files can't leave the tab. Repo and live demo coming soon.
+- 🤖 Next up: **AI security**. I've built MCP servers and LLM tool integrations; now I'm learning how they get attacked (prompt injection, tool abuse, data leakage)
 
 ---
 
@@ -30,6 +38,17 @@ I build fast, conversion-focused Shopify storefronts on **Online Store 2.0** —
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
+**AI**
+![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-5A45FF?style=flat-square&logoColor=white)
+
+**Security (learning)**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+
 **Performance & Tools**
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -40,16 +59,16 @@ I build fast, conversion-focused Shopify storefronts on **Online Store 2.0** —
 
 ## 🚀 What I Do
 
-- 🏬 Build complete Shopify stores end to end — product pages, checkout, payments, shipping, and apps
+- 🏬 Build complete Shopify stores end to end: product pages, checkout, payments, shipping, and apps
 - 🎨 Convert Figma designs into responsive, **mobile-first** Liquid themes with reusable sections and blocks
-- ⚡ Optimize **LCP, CLS, and INP** through critical CSS, lazy-loading, deferred JS, and `srcset` images
-- 🧩 Make stores **merchant-editable** via metafields and the Theme Customizer so non-technical teams ship updates without code
-- 🤖 Explore where commerce meets AI — building MCP endpoints and Anthropic SDK integrations
+- ⚡ Optimize **LCP, CLS, and INP** through critical CSS, lazy-loading, deferred JS, and `srcset` images (one store went from 4.2s to 1.8s LCP)
+- 🧩 Make stores **merchant-editable** with metafields and the Theme Customizer, so non-technical teams ship updates without code
+- 🤖 Build AI-powered commerce tools with MCP endpoints and Anthropic SDK integrations
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to Shopify theme work and frontend projects. The fastest way to reach me is through my [portfolio](https://mtahir.netlify.app) or [email](mailto:mtahirkaam@gmail.com).
+I'm open to Shopify theme work, full-stack projects, and conversations with teams building secure web and AI products. The fastest way to reach me is through my [portfolio](https://mtahir.netlify.app) or [email](mailto:mtahirkaam@gmail.com).
 
-<sub>🎓 BS Computer Science @ Virtual University of Pakistan </sub>
+<sub>🎓 BS Computer Science @ Virtual University of Pakistan</sub>
